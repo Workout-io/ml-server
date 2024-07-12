@@ -1,2 +1,5 @@
 test1.py
+__pycache__
 .venv
+tmp
+test2.py
